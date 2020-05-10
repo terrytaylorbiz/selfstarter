@@ -16,7 +16,6 @@ I was writing payment facilitator documents for potential client partners. This 
 
 6. I create __readme_first.docx as a summary of the documentation I created.
 
-This portal was deployed by the client (with the payfac docs in markdown) and worked very well. So the portal was up and running before they even planned to start working on it.
+This portal was deployed by the client (I ported the payfac docs to markdown) and worked very well. The portal was up and running before they even planned to start working on it.
 
-This is how I work. 
- 
+This is how I work.
