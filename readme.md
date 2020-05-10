@@ -10,6 +10,13 @@ I was writing payment facilitator documents for potential client partners. This 
 
 3. I decided that a React-based portal was a good bet. So I did some hands-on learning for React. The details are in 1b_partner_portal_demo_react_firebase.docx (I figured that others might appreciate such info).
 
-4. I created a short markdown cheat sheet (as requested by the client). 1a_markdown_tutorial_cheat_sheet.docx
+4. I created a short markdown cheat sheet (as requested by the client) 1a_markdown_tutorial_cheat_sheet.docx.
 
-5. 
+5. I found a suitable website at openpowerquality.org whose source files were open source and on GIT. I used these sources as a basis to create a portal. Details are described in 1_doc_portal_demo_docusaurus.docx.
+
+6. I create __readme_first.docx as a summary of the documentation I created.
+
+This portal was deployed by the client (with the payfac docs in markdown) and worked very well. So the portal was up and running before they even planned to start working on it.
+
+This is how I work. 
+ 
