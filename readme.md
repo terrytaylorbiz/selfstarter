@@ -4,7 +4,7 @@ This repo includes docs that I wrote for a recent client that demonstrate my sel
 
 I was writing payment facilitator documents for potential client partners. This work went much quicker than expected, so I had some free time. There was vague talk about creating a partner portal in 6 months (this was not to be my task), so I started to do some research on possible portal tech.  I had no assistance and was starting from near 0.
 
-1. I first researched a lot of tools (doing hands-on examples wherever possible). The original doc was doc_portal.docx. 
+1. I first researched a lot of tools (doing hands-on examples wherever possible). The original doc was doc_portal.docx. The tools I liked the most were Apigee, Postman and SoapUI. 
 
 2. I then realized that I needed to focus on chapter 4 of that doc. So I split that doc into 3_doc_portal_ch13567.docx and 2_doc_portal_ch4.docx (chapter 4 only). I then focused on chapter 4.
 
