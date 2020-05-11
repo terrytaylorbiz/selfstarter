@@ -4,7 +4,7 @@ May 11, 2020
 
 In 2019 the team I was working with planned to create an API documentation portal. The exact details of what the portal would look like had still not been determined. My assigned tasks (writing API docs) had been going much quicker than expected, so in my free time I started to research various tools that I thought might be useful for the portal. The requirements for the portal were changing at the same time, so my search widened. 
 
-This was my approach to creating the required portal and documenting my efforts.
+The following describes what I did and the documents I created along the way (I removed any possibly confidential information from the documents before posting to GitHub).
 
 1. I first researched a lot of tools (doing hands-on examples wherever possible). The original doc was doc_portal.docx. The tools I liked the most were Apigee, Postman and SoapUI. 
 
