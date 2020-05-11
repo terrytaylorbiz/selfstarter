@@ -1,8 +1,9 @@
-2020 May 10
+An example of my self-starter working style
+May 11, 2020
 
-This repo includes docs that I wrote for a recent client that demonstrate my self initiative. I have deleted any text/screenshots from the docs that might contain confidential info, and all of this work was done on my personal PC (the docs contain many screenshots from examples I did).
+In 2019 the team I was working with planned to create an API documentation portal. The exact details of what the portal would look like had still not been determined. My assigned tasks (writing API docs) had been going much quicker than expected, so in my free time I started to research various tools that I thought might be useful for the portal. The requirements for the portal were changing at the same time, so my search widened. 
 
-I was writing payment facilitator documents for potential client partners. This work went much quicker than expected, so I had some free time. There was vague talk about creating a partner portal in 6 months (this was not to be my task), so I started to do some research on possible portal tech.  I had no assistance and was starting from near 0.
+This was my approach to creating the required portal and documenting my efforts.
 
 1. I first researched a lot of tools (doing hands-on examples wherever possible). The original doc was doc_portal.docx. The tools I liked the most were Apigee, Postman and SoapUI. 
 
