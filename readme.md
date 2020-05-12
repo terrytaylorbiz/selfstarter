@@ -10,12 +10,12 @@ The following describes what I did and the documents I created along the way (I 
 
 2. I then realized that I needed to focus on chapter 4 of that doc. So I split that doc into 3_doc_portal_ch13567.docx and 2_doc_portal_ch4.docx (chapter 4 only). I then focused on chapter 4.
 
-3. I decided that a React-based portal was a good bet. So I did some hands-on learning for React. The details are in 1b_partner_portal_demo_react_firebase.docx (I figured the client might appreciate such info).
+3. I decided that a React-based portal was a good bet. So I did some hands-on learning for React. The details are in 1b_partner_portal_demo_react_firebase.docx (I figured the team might appreciate such info).
 
-4. I then created a short markdown cheat sheet (as requested by the client) 1a_markdown_tutorial_cheat_sheet.docx.
+4. I then created a short markdown cheat sheet (as requested by the team leader) 1a_markdown_tutorial_cheat_sheet.docx.
 
-5. I found a suitable website at openpowerquality.org whose source files were open source and on GIT. I used these sources as a basis to create a portal. I ported the payfac docs to markdown. Details are described in 1_doc_portal_demo_docusaurus.docx.
+5. I found a suitable website at openpowerquality.org whose source files were open source and on Git. I used these sources as a basis to create a portal. I ported the payfac docs to markdown. Details are described in 1_doc_portal_demo_docusaurus.docx.
 
-6. I created __readme_first.docx to summarize the documentation I created. I put all the docs on the client server.
+6. I created __readme_first.docx to summarize the documentation I created.
 
 This portal was deployed by the client and worked very well. The portal was up and running before they even planned to start working on it.
