@@ -18,4 +18,4 @@ The following describes what I did and the documents I created along the way (I 
 
 6. I created __readme_first.docx to summarize the documentation I created.
 
-This portal was deployed by the client and worked very well. The portal was up and running before they even planned to start working on it.
+This portal was up and running before the team planned to start working on it.
