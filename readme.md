@@ -1,14 +1,12 @@
 An example of my self-starter working style
 
-May 11, 2020
-
-In 2019 the team I was working with planned to create an API documentation portal. The exact details of what the portal would look like had still not been determined. My assigned tasks (writing API docs) had been going much quicker than expected, so in my free time I started to research various tools that I thought might be useful for the portal. 
+In 2019 the team I was working with planned to create an API documentation portal. The exact details of what the portal would look like had still not been determined. My assigned tasks (writing API docs) had been going much quicker than expected, so in my free time I started to research various tools that I thought might be useful for the portal.
 
 The following describes what I did and the documents I created along the way (I removed any possibly confidential information from the documents before posting to GitHub).
 
-1. I first researched a lot of tools (doing hands-on examples wherever possible). The original doc was doc_portal.docx. The tools I liked the most were Apigee, Postman and SoapUI. 
+1. I first researched a lot of tools (doing hands-on examples wherever possible). The original doc was doc_portal.docx. The tools I liked the most were Apigee, Postman and SoapUI. At first I thought the portal would include a complete Swagger-style API website with authorization. 
 
-2. I then realized that I needed to focus on chapter 4 of that doc. So I split that doc into 3_doc_portal_ch13567.docx and 2_doc_portal_ch4.docx (chapter 4 only). I then focused on chapter 4.
+2. Later it was decided that the first version of the portal would be very simple. So I realized that I needed to focus only on chapter 4 of doc_portal.docx. So I split that doc into 3_doc_portal_ch13567.docx and 2_doc_portal_ch4.docx (chapter 4 only). I then focused on chapter 4.
 
 3. I decided that a React-based portal was a good bet. So I did some hands-on learning for React. The details are in 1b_partner_portal_demo_react_firebase.docx (I figured the team might appreciate such info).
 
